@@ -1,6 +1,6 @@
 {
   "name": "domain-query",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "拼音域名查询工具",
   "scripts": {
     "lint": "eslint lib",
