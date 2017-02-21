@@ -4,6 +4,8 @@
 
     npm install
 
+获取万网的 token
+
     npm start
 
 之后会生成一个 `.txt` 文件，包含可注册的域名
